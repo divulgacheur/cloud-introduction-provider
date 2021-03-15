@@ -1,0 +1,14 @@
+{
+  "name": "provider",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "express": "^4.17.1",
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {}
+}
